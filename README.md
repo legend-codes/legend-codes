@@ -12,44 +12,14 @@
 
 </div>
 
-<div align="center">
-
-<table width="100%" align="center">
-  <tr>
-    <td align="center" valign="middle" width="25%" bgcolor="#1A1B27">
-      <a href="https://github.com/Legend-codes" aria-label="Visit Legend-codes on GitHub">
-        <img src="https://cdn.simpleicons.org/github/BB9AF7" height="42" alt="GitHub logo" />
-      </a>
-      <br /><br />
-      <strong>LEGEND-CODES</strong>
-      <br />
-      <sub>Projects · Repositories · Ideas</sub>
-    </td>
-    <td align="center" valign="middle" width="25%" bgcolor="#1A1B27">
-      <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="Visual Studio Code logo" />
-      <br /><br />
-      <strong>DEVELOPER</strong>
-      <br />
-      <sub>Build · Debug · Improve</sub>
-    </td>
-    <td align="center" valign="middle" width="25%" bgcolor="#1A1B27">
-      <img src="https://cdn.simpleicons.org/gnubash/BB9AF7" height="42" alt="GNU Bash terminal logo" />
-      <br /><br />
-      <strong>PROGRAMMER</strong>
-      <br />
-      <sub>Logic · Code · Solutions</sub>
-    </td>
-    <td align="center" valign="middle" width="25%" bgcolor="#1A1B27">
-      <img src="https://cdn.simpleicons.org/steam/7AA2F7" height="42" alt="Steam gaming logo" />
-      <br /><br />
-      <strong>GAMER</strong>
-      <br />
-      <sub>Play · Compete · Respawn</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Legend-codes"><img src="https://cdn.simpleicons.org/github/BB9AF7" height="38" alt="GitHub logo" /></a> <strong>LEGEND-CODES</strong> <sub>Projects · Repositories · Ideas</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code logo" /> <strong>DEVELOPER</strong> <sub>Build · Debug · Improve</sub>
+</p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/gnubash/BB9AF7" height="38" alt="GNU Bash logo" /> <strong>PROGRAMMER</strong> <sub>Logic · Code · Solutions</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/steam/7AA2F7" height="38" alt="Steam gaming logo" /> <strong>GAMER</strong> <sub>Play · Compete · Respawn</sub>
+</p>
 
 ---
 
@@ -74,37 +44,31 @@ I like turning random ideas into real projects, experimenting with new technolog
 
 ### 💻 Languages
 
-<table align="center">
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br /><sub>HTML</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br /><sub>CSS</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br /><sub>Python</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" /><br /><sub>Java</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="48" alt="C" /><br /><sub>C</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="38" alt="HTML" /> <sub>HTML</sub> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="38" alt="CSS" /> <sub>CSS</sub> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="38" alt="JavaScript" /> <sub>JavaScript</sub> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="38" alt="Python" /> <sub>Python</sub> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="38" alt="Java" /> <sub>Java</sub> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="38" alt="C" /> <sub>C</sub>
+</p>
 
 ### ⚛️ Frameworks & Runtime
 
-<table align="center">
-  <tr>
-    <td align="center" width="130"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /><br /><sub>React</sub></td>
-    <td align="center" width="130"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /><br /><sub>Node.js</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="38" alt="React" /> <sub>React</sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="38" alt="Node.js" /> <sub>Node.js</sub>
+</p>
 
 ### 🐳 Database, DevOps & Version Control
 
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" /><br /><sub>MySQL</sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /><br /><sub>Docker</sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br /><sub>Git</sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br /><sub>GitHub</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="38" alt="MySQL" /> <sub>MySQL</sub> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="38" alt="Docker" /> <sub>Docker</sub> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="38" alt="Kubernetes" /> <sub>Kubernetes</sub> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="38" alt="Git" /> <sub>Git</sub> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub" /> <sub>GitHub</sub>
+</p>
 
 ---
 
@@ -127,19 +91,9 @@ I like turning random ideas into real projects, experimenting with new technolog
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Legend-codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies" />
-</div>
-
----
-
 ## 🎮 Beyond the Keyboard
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/QzC5CawxwbEAAAAd/purple-black-gaming.gif" width="440" alt="Purple neon gaming sign with a controller" />
-  <br />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=850&color=7AA2F7&center=true&vCenter=true&width=650&lines=QUEUE+UP.+LOCK+IN.;ONE+MORE+MATCH...;JUST+ONE+MORE+ROUND;RESPAWN.+REPEAT." alt="Animated gaming messages" />
   <h3><code>EAT. SLEEP. CODE. GAME. REPEAT.</code></h3>
   <p><em>Developer by passion. Gamer by nature. Always ready for the next challenge.</em></p>
@@ -151,46 +105,27 @@ I like turning random ideas into real projects, experimenting with new technolog
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2300&pause=800&color=BB9AF7&center=true&vCenter=true&width=720&lines=Compiling+wild+ideas...;Turning+coffee+into+code...;One+more+commit+before+sleep...;Searching+for+the+missing+semicolon...;ERROR%3A+Sleep+not+found." alt="Animated developer messages" />
+  <br /><br />
+  <table align="center">
+    <tr><th align="left">MODE</th><th align="left">STATUS</th></tr>
+    <tr><td>Coding</td><td><code>ALWAYS ON</code></td></tr>
+    <tr><td>Building</td><td><code>IN PROGRESS</code></td></tr>
+    <tr><td>Debugging</td><td><code>FEATURE DEVELOPMENT</code></td></tr>
+    <tr><td>Gaming</td><td><code>QUEUE READY</code></td></tr>
+    <tr><td>Learning</td><td><code>NEVER ENDS</code></td></tr>
+    <tr><td>Sleep</td><td><code>NOT FOUND</code></td></tr>
+  </table>
 </div>
-
-```text
-while (alive) {
-    build();
-    breakThings();
-    debug();
-    learn();
-    game();
-    repeat();
-}
-```
-
-| Mode | Status |
-|:---|:---|
-| Coding | `ALWAYS ON` |
-| Building | `IN PROGRESS` |
-| Debugging | `FEATURE DEVELOPMENT` |
-| Gaming | `QUEUE READY` |
-| Learning | `NEVER ENDS` |
-| Sleep | `NOT FOUND` |
 
 ---
 
 ## 🌌 Find Me on GitHub
 
 <div align="center">
-  <table align="center" width="70%">
-    <tr>
-      <td align="center" bgcolor="#1A1B27">
-        <a href="https://github.com/Legend-codes">
-          <img src="https://cdn.simpleicons.org/github/BB9AF7" height="48" alt="GitHub logo" />
-          <br /><br />
-          <strong>VISIT MY GITHUB</strong>
-          <br />
-          <sub>github.com/Legend-codes · Projects · Repositories</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Legend-codes"><img src="https://cdn.simpleicons.org/github/BB9AF7" height="56" alt="GitHub logo" /></a>
+  <br />
+  <h3><a href="https://github.com/Legend-codes">VISIT MY GITHUB</a></h3>
+  <p><sub>github.com/Legend-codes · Projects · Repositories</sub></p>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Legend-codes&style=flat-square&color=9D7CD8&label=PROFILE+VISITORS" alt="Profile visitors" />
   <br /><br />
