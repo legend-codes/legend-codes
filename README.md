@@ -1,47 +1,47 @@
 <div align="center">
-  <h1>⚡ MOHAMMED MUNEEB</h1>
-  <h3><code>@Legend-codes</code></h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=DEVELOPER+%7C+PROGRAMMER+%7C+GAMER;I+TURN+COFFEE+INTO+CODE;BUILDING.+BREAKING.+DEBUGGING.+REPEATING.;CREATING+STUFF+JUST+BECAUSE+I+CAN;WELCOME+TO+MY+DIGITAL+WORLD!" alt="Animated developer introduction" />
+<img src="https://media.tenor.com/P90mZ0Ld6LEAAAAj/hacker.gif" width="150" alt="Purple hacker mascot typing" />
 
-  <p>
-    <a href="https://github.com/Legend-codes"><img src="https://img.shields.io/badge/GitHub-Legend--codes-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: Legend-codes" /></a>
-    <img src="https://img.shields.io/badge/Developer-By%20Passion-7B2FFF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Developer by passion" />
-    <img src="https://img.shields.io/badge/Gamer-By%20Nature-FF0055?style=for-the-badge&logo=steam&logoColor=white" alt="Gamer by nature" />
-  </p>
+# MOHAMMED MUNEEB
 
-  <br />
+### `Legend-codes`
 
-  <img src="https://media1.tenor.com/m/hcTCXwZoeaMAAAAd/coding-programming.gif" width="650" alt="Coding animation from Tenor" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=850&color=BB9AF7&center=true&vCenter=true&width=850&lines=DEVELOPER+%7C+PROGRAMMER+%7C+GAMER;I+TURN+COFFEE+INTO+CODE;BUILDING+COOL+STUFF+AND+BREAKING+IT;DEBUGGING+IS+JUST+UNPLANNED+LEARNING;CODE+HARD.+GAME+HARDER." alt="Animated developer introduction" />
 
-  <h3><code>Code. Create. Conquer. Repeat.</code></h3>
-  <p><em>Not just writing code. Building things, breaking limits and creating possibilities.</em></p>
+<p>
+  <a href="https://github.com/Legend-codes"><img src="https://img.shields.io/badge/GitHub-Legend--codes-1A1B27?style=for-the-badge&logo=github&logoColor=BB9AF7" alt="GitHub Legend-codes" /></a>
+  <img src="https://img.shields.io/badge/Developer-By%20Passion-9D7CD8?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Developer by passion" />
+  <img src="https://img.shields.io/badge/Gamer-By%20Nature-7AA2F7?style=for-the-badge&logo=steam&logoColor=white" alt="Gamer by nature" />
+</p>
+
+<em>Curious mind. Chaotic ideas. Endless commits.</em>
+
+### `CODE  •  CREATE  •  GAME  •  REPEAT`
+
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-Hey! I'm **Mohammed Muneeb**, also known as **Legend-codes**.
+Hey! I'm **Mohammed Muneeb**, also known as **Legend-codes** — a developer, programmer, coder and gamer who genuinely enjoys building stuff.
 
-A developer, programmer, coder and gamer who genuinely enjoys building stuff. I love experimenting with technology, turning random ideas into projects and figuring out how things work.
+I like turning random ideas into real projects, experimenting with new technologies, solving problems and figuring out how things work. I can start with one small idea and somehow end up with ten tabs, three terminals and a brand-new project.
 
-I'm the kind of person who starts with a small idea and somehow ends up building an entire project.
+- 💻 **Developer:** Building projects, experimenting and bringing ideas to life.
+- 🧑‍💻 **Programmer:** Always looking for a cleaner way to solve a problem.
+- 🎮 **Gamer:** Here for the challenge, the chaos and the next respawn.
+- ⚙️ **Tech enthusiast:** Interested in web development, software and cloud technologies.
+- 🚀 **Builder mindset:** Learn by making things, breaking things and fixing them.
+- 📚 **Always learning:** There is always another tool or concept to explore.
 
-- 💻 **Developer:** Always building, experimenting and creating.
-- 🧑‍💻 **Programmer:** Turning problems into lines of code.
-- 🎮 **Gamer:** Gaming is not just a hobby; it's a lifestyle.
-- ⚙️ **Tech enthusiast:** Exploring software, development and cloud technologies.
-- 🚀 **Creator:** I love bringing crazy ideas to life.
-- 📈 **Forever learning:** There is always something new to build.
-
-> "Why just use technology when you can build something with it?"
+> *I don't chase bugs. I just give them a temporary place to live.* 🐛
 
 ---
 
-## ⚡ My Tech Arsenal
+## ⚡ Tech Stack & Tools
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <table align="center">
   <tr>
@@ -63,13 +63,13 @@ I'm the kind of person who starts with a small idea and somehow ends up building
   </tr>
 </table>
 
-### 🐳 DevOps, Database & Tools
+### 🐳 Database, DevOps & Version Control
 
 <table align="center">
   <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" /><br /><sub>MySQL</sub></td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /><br /><sub>Docker</sub></td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" /><br /><sub>MySQL</sub></td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br /><sub>Git</sub></td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br /><sub>GitHub</sub></td>
   </tr>
@@ -77,13 +77,13 @@ I'm the kind of person who starts with a small idea and somehow ends up building
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Legend-codes&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics and commits" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legend-codes&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Legend-codes&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=BB9AF7&icon_color=7AA2F7&text_color=C0CAF5&rank_icon=github" alt="GitHub stats including commits" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legend-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=BB9AF7&text_color=C0CAF5" alt="Most used languages" />
   <br /><br />
-  <img width="65%" src="https://streak-stats.demolab.com/?user=Legend-codes&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="65%" src="https://streak-stats.demolab.com/?user=Legend-codes&theme=tokyonight&hide_border=true&background=1A1B27&ring=BB9AF7&fire=7AA2F7&currStreakLabel=BB9AF7" alt="GitHub contribution streak" />
 </div>
 
 ---
@@ -91,7 +91,7 @@ I'm the kind of person who starts with a small idea and somehow ends up building
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Legend-codes&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Legend-codes&theme=tokyo-night&bg_color=1A1B27&color=C0CAF5&line=BB9AF7&point=7AA2F7&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 ---
@@ -99,7 +99,7 @@ I'm the kind of person who starts with a small idea and somehow ends up building
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Legend-codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Legend-codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies" />
 </div>
 
 ---
@@ -107,10 +107,11 @@ I'm the kind of person who starts with a small idea and somehow ends up building
 ## 🎮 Gaming Mode: ON
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/mr90vlDpCUsAAAAd/gaming-setup.gif" width="420" alt="Gaming setup animation from Tenor" />
+  <img src="https://media1.tenor.com/m/QzC5CawxwbEAAAAd/purple-black-gaming.gif" width="440" alt="Purple neon gaming sign with a controller" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=850&color=7AA2F7&center=true&vCenter=true&width=650&lines=QUEUE+UP.+LOCK+IN.;ONE+MORE+MATCH...;GAMING+MODE%3A+ACTIVATED;RESPAWN.+REPEAT." alt="Animated gaming mode messages" />
   <h3><code>EAT. SLEEP. CODE. GAME. REPEAT.</code></h3>
-  <p><strong>Developer by day. Gamer whenever possible.</strong></p>
-  <p>Whether it's debugging a ridiculous error, building a new project or getting lost in a game, I'm always up for the next challenge.</p>
+  <p><em>Developer by passion. Gamer by nature. Always ready for the next challenge.</em></p>
 </div>
 
 ---
@@ -118,40 +119,40 @@ I'm the kind of person who starts with a small idea and somehow ends up building
 ## 🔥 Developer Mode
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=800&color=FF0055&center=true&vCenter=true&width=700&lines=Compiling+Crazy+Ideas...;Debugging+My+Existence...;Turning+Coffee+Into+Code...;One+More+Commit+Before+Sleeping...;ERROR%3A+Sleep+Not+Found!" alt="Animated developer mode messages" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2300&pause=800&color=BB9AF7&center=true&vCenter=true&width=720&lines=Compiling+wild+ideas...;Turning+coffee+into+code...;One+more+commit+before+sleep...;Searching+for+the+missing+semicolon...;ERROR%3A+Sleep+not+found." alt="Animated developer mode messages" />
 </div>
 
 ```text
 while (alive) {
-    code();
-    create();
+    build();
+    breakThings();
     debug();
+    learn();
     game();
     repeat();
 }
 ```
 
-### ⚡ Current Status
-
 | Mode | Status |
 |:---|:---|
 | Coding | `ALWAYS ON` |
-| Debugging | `IN PROGRESS` |
-| Gaming | `LOADING...` |
+| Building | `IN PROGRESS` |
+| Debugging | `FEATURE DEVELOPMENT` |
+| Gaming | `QUEUE READY` |
 | Learning | `NEVER ENDS` |
 | Sleep | `NOT FOUND` |
 
 ---
 
-## 🌌 Connect With the Developer
+## 🌌 Find Me on GitHub
 
 <div align="center">
-  <a href="https://github.com/Legend-codes"><img src="https://img.shields.io/badge/GitHub-Legend--codes-181717?style=for-the-badge&logo=github" alt="Visit Legend-codes on GitHub" /></a>
+  <a href="https://github.com/Legend-codes"><img src="https://img.shields.io/badge/Follow%20the%20chaos-Legend--codes-9D7CD8?style=for-the-badge&logo=github&logoColor=white" alt="Visit Legend-codes on GitHub" /></a>
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=Legend-codes&style=for-the-badge&color=7B2FFF&label=PROFILE+VISITORS" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Legend-codes&style=for-the-badge&color=9D7CD8&label=PROFILE+VISITORS" alt="Profile visitors" />
   <br /><br />
-  <h3>💜 Thanks for visiting!</h3>
+  <h3>💜 Thanks for stopping by!</h3>
   <p><em>Stay curious. Keep creating. Never stop building.</em></p>
-  <p><strong>© Mohammed Muneeb | LEGEND-CODES</strong></p>
   <h3><code>THE NEXT COMMIT IS ALWAYS THE BEST ONE.</code></h3>
+  <p><strong>© Mohammed Muneeb | Legend-codes</strong></p>
 </div>
