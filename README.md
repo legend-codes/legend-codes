@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.tenor.com/P90mZ0Ld6LEAAAAj/hacker.gif" width="150" alt="Purple hacker mascot typing" />
-
 # ⚡ MOHAMMED MUNEEB
 
 ### `Legend-codes`
@@ -19,16 +17,16 @@
 <table width="100%" align="center">
   <tr>
     <td align="center" valign="middle" width="25%" bgcolor="#1A1B27">
-      <a href="https://github.com/Legend-codes">
+      <a href="https://github.com/Legend-codes" aria-label="Visit Legend-codes on GitHub">
         <img src="https://cdn.simpleicons.org/github/BB9AF7" height="42" alt="GitHub logo" />
-        <br /><br />
-        <strong>LEGEND-CODES</strong>
-        <br />
-        <sub>Projects · Repositories · Ideas</sub>
       </a>
+      <br /><br />
+      <strong>LEGEND-CODES</strong>
+      <br />
+      <sub>Projects · Repositories · Ideas</sub>
     </td>
     <td align="center" valign="middle" width="25%" bgcolor="#1A1B27">
-      <img src="https://cdn.simpleicons.org/visualstudiocode/7AA2F7" height="42" alt="Visual Studio Code logo" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="Visual Studio Code logo" />
       <br /><br />
       <strong>DEVELOPER</strong>
       <br />
