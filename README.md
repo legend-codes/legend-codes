@@ -2,21 +2,54 @@
 
 <img src="https://media.tenor.com/P90mZ0Ld6LEAAAAj/hacker.gif" width="150" alt="Purple hacker mascot typing" />
 
-# MOHAMMED MUNEEB
+# ⚡ MOHAMMED MUNEEB
 
 ### `Legend-codes`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=850&color=BB9AF7&center=true&vCenter=true&width=850&lines=DEVELOPER+%7C+PROGRAMMER+%7C+GAMER;I+TURN+COFFEE+INTO+CODE;BUILDING+COOL+STUFF+AND+BREAKING+IT;DEBUGGING+IS+JUST+UNPLANNED+LEARNING;CODE+HARD.+GAME+HARDER." alt="Animated developer introduction" />
 
-<p>
-  <a href="https://github.com/Legend-codes"><img src="https://img.shields.io/badge/GitHub-Legend--codes-1A1B27?style=for-the-badge&logo=github&logoColor=BB9AF7" alt="GitHub Legend-codes" /></a>
-  <img src="https://img.shields.io/badge/Developer-By%20Passion-9D7CD8?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Developer by passion" />
-  <img src="https://img.shields.io/badge/Gamer-By%20Nature-7AA2F7?style=for-the-badge&logo=steam&logoColor=white" alt="Gamer by nature" />
-</p>
-
-<em>Curious mind. Chaotic ideas. Endless commits.</em>
+<p><em>Curious mind. Chaotic ideas. Endless commits.</em></p>
 
 ### `CODE  •  CREATE  •  GAME  •  REPEAT`
+
+</div>
+
+<div align="center">
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" valign="middle" width="25%" bgcolor="#1A1B27">
+      <a href="https://github.com/Legend-codes">
+        <img src="https://cdn.simpleicons.org/github/BB9AF7" height="42" alt="GitHub logo" />
+        <br /><br />
+        <strong>LEGEND-CODES</strong>
+        <br />
+        <sub>Projects · Repositories · Ideas</sub>
+      </a>
+    </td>
+    <td align="center" valign="middle" width="25%" bgcolor="#1A1B27">
+      <img src="https://cdn.simpleicons.org/visualstudiocode/7AA2F7" height="42" alt="Visual Studio Code logo" />
+      <br /><br />
+      <strong>DEVELOPER</strong>
+      <br />
+      <sub>Build · Debug · Improve</sub>
+    </td>
+    <td align="center" valign="middle" width="25%" bgcolor="#1A1B27">
+      <img src="https://cdn.simpleicons.org/gnubash/BB9AF7" height="42" alt="GNU Bash terminal logo" />
+      <br /><br />
+      <strong>PROGRAMMER</strong>
+      <br />
+      <sub>Logic · Code · Solutions</sub>
+    </td>
+    <td align="center" valign="middle" width="25%" bgcolor="#1A1B27">
+      <img src="https://cdn.simpleicons.org/steam/7AA2F7" height="42" alt="Steam gaming logo" />
+      <br /><br />
+      <strong>GAMER</strong>
+      <br />
+      <sub>Play · Compete · Respawn</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -104,12 +137,12 @@ I like turning random ideas into real projects, experimenting with new technolog
 
 ---
 
-## 🎮 Gaming Mode: ON
+## 🎮 Beyond the Keyboard
 
 <div align="center">
   <img src="https://media1.tenor.com/m/QzC5CawxwbEAAAAd/purple-black-gaming.gif" width="440" alt="Purple neon gaming sign with a controller" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=850&color=7AA2F7&center=true&vCenter=true&width=650&lines=QUEUE+UP.+LOCK+IN.;ONE+MORE+MATCH...;GAMING+MODE%3A+ACTIVATED;RESPAWN.+REPEAT." alt="Animated gaming mode messages" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=850&color=7AA2F7&center=true&vCenter=true&width=650&lines=QUEUE+UP.+LOCK+IN.;ONE+MORE+MATCH...;JUST+ONE+MORE+ROUND;RESPAWN.+REPEAT." alt="Animated gaming messages" />
   <h3><code>EAT. SLEEP. CODE. GAME. REPEAT.</code></h3>
   <p><em>Developer by passion. Gamer by nature. Always ready for the next challenge.</em></p>
 </div>
@@ -119,7 +152,7 @@ I like turning random ideas into real projects, experimenting with new technolog
 ## 🔥 Developer Mode
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2300&pause=800&color=BB9AF7&center=true&vCenter=true&width=720&lines=Compiling+wild+ideas...;Turning+coffee+into+code...;One+more+commit+before+sleep...;Searching+for+the+missing+semicolon...;ERROR%3A+Sleep+not+found." alt="Animated developer mode messages" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2300&pause=800&color=BB9AF7&center=true&vCenter=true&width=720&lines=Compiling+wild+ideas...;Turning+coffee+into+code...;One+more+commit+before+sleep...;Searching+for+the+missing+semicolon...;ERROR%3A+Sleep+not+found." alt="Animated developer messages" />
 </div>
 
 ```text
@@ -147,11 +180,23 @@ while (alive) {
 ## 🌌 Find Me on GitHub
 
 <div align="center">
-  <a href="https://github.com/Legend-codes"><img src="https://img.shields.io/badge/Follow%20the%20chaos-Legend--codes-9D7CD8?style=for-the-badge&logo=github&logoColor=white" alt="Visit Legend-codes on GitHub" /></a>
+  <table align="center" width="70%">
+    <tr>
+      <td align="center" bgcolor="#1A1B27">
+        <a href="https://github.com/Legend-codes">
+          <img src="https://cdn.simpleicons.org/github/BB9AF7" height="48" alt="GitHub logo" />
+          <br /><br />
+          <strong>VISIT MY GITHUB</strong>
+          <br />
+          <sub>github.com/Legend-codes · Projects · Repositories</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Legend-codes&style=flat-square&color=9D7CD8&label=PROFILE+VISITORS" alt="Profile visitors" />
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=Legend-codes&style=for-the-badge&color=9D7CD8&label=PROFILE+VISITORS" alt="Profile visitors" />
-  <br /><br />
-  <h3>💜 Thanks for stopping by!</h3>
+  <h3>Thanks for stopping by!</h3>
   <p><em>Stay curious. Keep creating. Never stop building.</em></p>
   <h3><code>THE NEXT COMMIT IS ALWAYS THE BEST ONE.</code></h3>
   <p><strong>© Mohammed Muneeb | Legend-codes</strong></p>
