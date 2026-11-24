@@ -13,12 +13,17 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Legend-codes"><img src="https://cdn.simpleicons.org/github/BB9AF7" height="38" alt="GitHub logo" /></a> <strong>LEGEND-CODES</strong> <sub>Projects · Repositories · Ideas</sub> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code logo" /> <strong>DEVELOPER</strong> <sub>Build · Debug · Improve</sub>
-</p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/gnubash/BB9AF7" height="38" alt="GNU Bash logo" /> <strong>PROGRAMMER</strong> <sub>Logic · Code · Solutions</sub> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/steam/7AA2F7" height="38" alt="Steam gaming logo" /> <strong>GAMER</strong> <sub>Play · Compete · Respawn</sub>
+  &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Legend-codes"><img src="https://cdn.simpleicons.org/github/BB9AF7" height="40" alt="GitHub logo" /></a>&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code logo" />&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://cdn.simpleicons.org/gnubash/BB9AF7" height="40" alt="GNU Bash logo" />&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://cdn.simpleicons.org/steam/7AA2F7" height="40" alt="Steam gaming logo" />
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>LEGEND-CODES</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>DEVELOPER</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>PROGRAMMER</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>GAMER</strong>
+  <br />
+  <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projects · Repositories · Ideas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build · Debug · Improve&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logic · Code · Solutions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Play · Compete · Respawn</sub>
 </p>
 
 ---
@@ -45,29 +50,35 @@ I like turning random ideas into real projects, experimenting with new technolog
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="38" alt="HTML" /> <sub>HTML</sub> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="38" alt="CSS" /> <sub>CSS</sub> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="38" alt="JavaScript" /> <sub>JavaScript</sub> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="38" alt="Python" /> <sub>Python</sub> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="38" alt="Java" /> <sub>Java</sub> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="38" alt="C" /> <sub>C</sub>
+  &emsp;&emsp;<img src="https://skillicons.dev/icons?i=html" width="38" alt="HTML" />&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=css" width="38" alt="CSS" />&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=js" width="38" alt="JavaScript" />&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=python" width="38" alt="Python" />&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=java" width="38" alt="Java" />&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=c" width="38" alt="C" />&emsp;&emsp;
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>HTML</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>CSS</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>JavaScript</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Python</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Java</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>C</sub>
 </p>
 
 ### ⚛️ Frameworks & Runtime
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="38" alt="React" /> <sub>React</sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="38" alt="Node.js" /> <sub>Node.js</sub>
+  &emsp;&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=react" width="38" alt="React" />&emsp;&emsp;&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="38" alt="Node.js" />&emsp;&emsp;&emsp;&emsp;
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>React</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Node.js</sub>
 </p>
 
 ### 🐳 Database, DevOps & Version Control
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" width="38" alt="MySQL" /> <sub>MySQL</sub> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="38" alt="Docker" /> <sub>Docker</sub> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="38" alt="Kubernetes" /> <sub>Kubernetes</sub> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="38" alt="Git" /> <sub>Git</sub> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub" /> <sub>GitHub</sub>
+  &emsp;&emsp;<img src="https://skillicons.dev/icons?i=mysql" width="38" alt="MySQL" />&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="38" alt="Docker" />&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="38" alt="Kubernetes" />&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=git" width="38" alt="Git" />&emsp;&emsp;
+  <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub" />&emsp;&emsp;
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>MySQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Docker</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Kubernetes</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Git</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>GitHub</sub>
 </p>
 
 ---
