@@ -10,21 +10,32 @@
 
 ### `CODE  •  CREATE  •  GAME  •  REPEAT`
 
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="210">
+      <a href="https://github.com/Legend-codes"><img src="https://cdn.simpleicons.org/github/BB9AF7" height="40" alt="GitHub logo" /></a><br />
+      <strong>LEGEND-CODES</strong><br />
+      <sub>Projects · Repositories · Ideas</sub>
+    </td>
+    <td align="center" width="210">
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code logo" /><br />
+      <strong>DEVELOPER</strong><br />
+      <sub>Build · Debug · Improve</sub>
+    </td>
+    <td align="center" width="210">
+      <img src="https://cdn.simpleicons.org/gnubash/BB9AF7" height="40" alt="GNU Bash logo" /><br />
+      <strong>PROGRAMMER</strong><br />
+      <sub>Logic · Code · Solutions</sub>
+    </td>
+    <td align="center" width="210">
+      <img src="https://cdn.simpleicons.org/steam/7AA2F7" height="40" alt="Steam gaming logo" /><br />
+      <strong>GAMER</strong><br />
+      <sub>Play · Compete · Respawn</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  &emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/Legend-codes"><img src="https://cdn.simpleicons.org/github/BB9AF7" height="40" alt="GitHub logo" /></a>&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code logo" />&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://cdn.simpleicons.org/gnubash/BB9AF7" height="40" alt="GNU Bash logo" />&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://cdn.simpleicons.org/steam/7AA2F7" height="40" alt="Steam gaming logo" />
-  <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>LEGEND-CODES</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>DEVELOPER</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>PROGRAMMER</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>GAMER</strong>
-  <br />
-  <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projects · Repositories · Ideas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build · Debug · Improve&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logic · Code · Solutions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Play · Compete · Respawn</sub>
-</p>
+</div>
 
 ---
 
@@ -49,37 +60,82 @@ I like turning random ideas into real projects, experimenting with new technolog
 
 ### 💻 Languages
 
-<p align="center">
-  &emsp;&emsp;<img src="https://skillicons.dev/icons?i=html" width="38" alt="HTML" />&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=css" width="38" alt="CSS" />&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=js" width="38" alt="JavaScript" />&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=python" width="38" alt="Python" />&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=java" width="38" alt="Java" />&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=c" width="38" alt="C" />&emsp;&emsp;
-  <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>HTML</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>CSS</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>JavaScript</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Python</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Java</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>C</sub>
-</p>
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="38" alt="HTML" /><br />
+      <sub>HTML</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" width="38" alt="CSS" /><br />
+      <sub>CSS</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="38" alt="JavaScript" /><br />
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="38" alt="Python" /><br />
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java" width="38" alt="Java" /><br />
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=c" width="38" alt="C" /><br />
+      <sub>C</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ### ⚛️ Frameworks & Runtime
 
-<p align="center">
-  &emsp;&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=react" width="38" alt="React" />&emsp;&emsp;&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="38" alt="Node.js" />&emsp;&emsp;&emsp;&emsp;
-  <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>React</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Node.js</sub>
-</p>
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=react" width="38" alt="React" /><br />
+      <sub>React</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="38" alt="Node.js" /><br />
+      <sub>Node.js</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ### 🐳 Database, DevOps & Version Control
 
-<p align="center">
-  &emsp;&emsp;<img src="https://skillicons.dev/icons?i=mysql" width="38" alt="MySQL" />&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="38" alt="Docker" />&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="38" alt="Kubernetes" />&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=git" width="38" alt="Git" />&emsp;&emsp;
-  <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub" />&emsp;&emsp;
-  <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>MySQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Docker</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Kubernetes</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Git</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>GitHub</sub>
-</p>
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="115">
+      <img src="https://skillicons.dev/icons?i=mysql" width="38" alt="MySQL" /><br />
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="115">
+      <img src="https://skillicons.dev/icons?i=docker" width="38" alt="Docker" /><br />
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="115">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="38" alt="Kubernetes" /><br />
+      <sub>Kubernetes</sub>
+    </td>
+    <td align="center" width="115">
+      <img src="https://skillicons.dev/icons?i=git" width="38" alt="Git" /><br />
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="115">
+      <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub" /><br />
+      <sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
