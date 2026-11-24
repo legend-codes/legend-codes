@@ -10,32 +10,32 @@
 
 ### `CODE  •  CREATE  •  GAME  •  REPEAT`
 
-<table align="center">
+</div>
+
+<table align="center" border="0" cellpadding="14" cellspacing="0">
   <tr>
-    <td align="center" width="210">
-      <a href="https://github.com/Legend-codes"><img src="https://cdn.simpleicons.org/github/BB9AF7" height="40" alt="GitHub logo" /></a><br />
+    <td align="center" valign="top">
+      <a href="https://github.com/Legend-codes"><img src="https://cdn.simpleicons.org/github/BB9AF7" height="42" alt="GitHub logo" /></a><br />
       <strong>LEGEND-CODES</strong><br />
       <sub>Projects · Repositories · Ideas</sub>
     </td>
-    <td align="center" width="210">
-      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code logo" /><br />
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="Visual Studio Code logo" /><br />
       <strong>DEVELOPER</strong><br />
       <sub>Build · Debug · Improve</sub>
     </td>
-    <td align="center" width="210">
-      <img src="https://cdn.simpleicons.org/gnubash/BB9AF7" height="40" alt="GNU Bash logo" /><br />
+    <td align="center" valign="top">
+      <img src="https://cdn.simpleicons.org/gnubash/BB9AF7" height="42" alt="GNU Bash logo" /><br />
       <strong>PROGRAMMER</strong><br />
       <sub>Logic · Code · Solutions</sub>
     </td>
-    <td align="center" width="210">
-      <img src="https://cdn.simpleicons.org/steam/7AA2F7" height="40" alt="Steam gaming logo" /><br />
+    <td align="center" valign="top">
+      <img src="https://cdn.simpleicons.org/steam/7AA2F7" height="42" alt="Steam gaming logo" /><br />
       <strong>GAMER</strong><br />
       <sub>Play · Compete · Respawn</sub>
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
@@ -60,82 +60,37 @@ I like turning random ideas into real projects, experimenting with new technolog
 
 ### 💻 Languages
 
-<div align="center">
-<table align="center">
+<table align="center" border="0" cellpadding="12" cellspacing="0">
   <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html" width="38" alt="HTML" /><br />
-      <sub>HTML</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css" width="38" alt="CSS" /><br />
-      <sub>CSS</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js" width="38" alt="JavaScript" /><br />
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="38" alt="Python" /><br />
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=java" width="38" alt="Java" /><br />
-      <sub>Java</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=c" width="38" alt="C" /><br />
-      <sub>C</sub>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML" /><br /><sub>HTML</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS" /><br /><sub>CSS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" /><br /><sub>Python</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="42" alt="Java" /><br /><sub>Java</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" height="42" alt="C" /><br /><sub>C</sub></td>
   </tr>
 </table>
-</div>
 
 ### ⚛️ Frameworks & Runtime
 
-<div align="center">
-<table align="center">
+<table align="center" border="0" cellpadding="14" cellspacing="0">
   <tr>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=react" width="38" alt="React" /><br />
-      <sub>React</sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="38" alt="Node.js" /><br />
-      <sub>Node.js</sub>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React" /><br /><sub>React</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" /><br /><sub>Node.js</sub></td>
   </tr>
 </table>
-</div>
 
 ### 🐳 Database, DevOps & Version Control
 
-<div align="center">
-<table align="center">
+<table align="center" border="0" cellpadding="12" cellspacing="0">
   <tr>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=mysql" width="38" alt="MySQL" /><br />
-      <sub>MySQL</sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=docker" width="38" alt="Docker" /><br />
-      <sub>Docker</sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="38" alt="Kubernetes" /><br />
-      <sub>Kubernetes</sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=git" width="38" alt="Git" /><br />
-      <sub>Git</sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub" /><br />
-      <sub>GitHub</sub>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" /><br /><sub>MySQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" /><br /><sub>Docker</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="42" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" /><br /><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /><br /><sub>GitHub</sub></td>
   </tr>
 </table>
-</div>
 
 ---
 
